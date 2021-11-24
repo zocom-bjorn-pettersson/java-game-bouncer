@@ -1,9 +1,6 @@
-package se.zocom.bjorn.game.bouncer;
-
 /*
 Bouncer
 =======
-Commit test.
 
 This is a game where a ball bounces between two walls.
 
@@ -21,7 +18,7 @@ o Unfortunately it's pretty hard to let the player change things about the game 
 
  */
 
-public class Main {
+public class Bouncer {
     public static void main(String[] args) {
         int game_width = 15;
 
